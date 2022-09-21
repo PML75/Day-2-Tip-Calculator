@@ -1,3 +1,3 @@
-#Welcome to the Tip Calculator! 🧊🥂💸
+# Band Name Generator 🎤🎸🎹🎵🎶🎛🥁
 
-Calculates how much each person would pay with user inputted bill and tip percent.
+Analyzes information about you to create a name for your band.
