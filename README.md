@@ -1,3 +1,3 @@
-# Band Name Generator 🎤🎸🎹🎵🎶🎛🥁
+# Tip Calculator 
 
-Analyzes information about you to create a name for your band.
+Calculates tip percentage and splits bill with given user input.
